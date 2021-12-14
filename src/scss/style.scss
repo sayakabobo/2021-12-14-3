@@ -246,7 +246,6 @@ contact
     text-align: center;
 
     input {
-      text-align: center;
       width: 200px;
       background: black;
       border: none;
@@ -254,6 +253,7 @@ contact
       padding: 15px 0;
       border: 1px solid vars.$base_color;
       font-size: 1rem;
+      cursor: pointer;
 
       &:hover {
         background: vars.$white_color;
