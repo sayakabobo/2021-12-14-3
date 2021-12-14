@@ -1,0 +1,10 @@
+$base_color: #444444;
+$white_color: #fff;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
